@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Locked Starting Trinkets</name>
+    <directory>locked starting trinkets</directory>
+    <id>2775981002</id>
+    <description>A mod that locks the starting trinkets of each character by smelting them.
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2774145099]Locked Starting Items[/url]
+
+[url=https://moddingofisaac.com/mod/3766/abrep-locked-starting-trinkets]Modding of Isaac[/url]</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Trinkets"/>
+    <tag id="Tweaks"/>
+</metadata>
